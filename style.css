@@ -1,0 +1,126 @@
+.iphone-pro {
+  background-color: #ffffff;
+  width: 100%;
+  min-width: 402px;
+  min-height: 874px;
+  position: relative;
+}
+
+.iphone-pro .footer {
+  position: absolute;
+  top: 773px;
+  left: 0;
+  width: 402px;
+  height: 101px;
+}
+
+.iphone-pro .header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 402px;
+  height: 98px;
+}
+
+.iphone-pro .konfetti {
+  position: absolute;
+  top: 49px;
+  left: 16px;
+  width: 370px;
+  height: 154px;
+  aspect-ratio: 2.4;
+  object-fit: cover;
+}
+
+.iphone-pro .logo {
+  position: absolute;
+  top: 75px;
+  left: 132px;
+  width: 125px;
+  height: 125px;
+  aspect-ratio: 1;
+  object-fit: cover;
+}
+
+.iphone-pro .bild {
+  position: absolute;
+  top: 395px;
+  left: 247px;
+  width: 131px;
+  height: 87px;
+  aspect-ratio: 1.5;
+}
+
+.iphone-pro .img {
+  position: absolute;
+  top: 275px;
+  left: 247px;
+  width: 131px;
+  height: 115px;
+  aspect-ratio: 1.14;
+}
+
+.iphone-pro .text-wrapper {
+  position: absolute;
+  top: 228px;
+  left: 23px;
+  width: 355px;
+  font-family: "Just Another Hand-Regular", Helvetica;
+  font-weight: 400;
+  color: #0082b9;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-pro .div {
+  position: absolute;
+  top: 511px;
+  left: 23px;
+  width: 355px;
+  font-family: "Just Another Hand-Regular", Helvetica;
+  font-weight: 400;
+  color: #0082b9;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-pro .bild-2 {
+  position: absolute;
+  top: 275px;
+  left: 23px;
+  width: 219px;
+  height: 153px;
+  aspect-ratio: 1.43;
+}
+
+.iphone-pro .dieses-projekt-ist {
+  position: absolute;
+  top: 552px;
+  left: 28px;
+  width: 350px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-pro .LOTTE-SCHELLHAMMER {
+  position: absolute;
+  top: 831px;
+  left: 0;
+  width: 402px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
